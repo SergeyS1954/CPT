@@ -11,5 +11,5 @@ plt.plot(x,y2, label = r" $\alpha = 1.0, beta = 1.0$")
 plt.plot(x,y3, linestyle = ':', label = r" $\alpha = 0.5, beta = 0.5$")
 plt.plot(x,y4, linestyle = '--', label = r" $\alpha = 2.5, beta = 1.5$")
 plt.legend()
-#plt.show()
-plt.savefig('app3_beta_1.jpg')
+plt.show()
+
